@@ -1,0 +1,13 @@
+C:\Users\Madhusudan Sharma\source\repos\Jan2020\ConsoleApp3\Antra.Training.UI.ConsoleApp\bin\Debug\Antra.Training.UI.ConsoleApp.exe.config
+C:\Users\Madhusudan Sharma\source\repos\Jan2020\ConsoleApp3\Antra.Training.UI.ConsoleApp\bin\Debug\Antra.Training.UI.ConsoleApp.exe
+C:\Users\Madhusudan Sharma\source\repos\Jan2020\ConsoleApp3\Antra.Training.UI.ConsoleApp\bin\Debug\Antra.Training.UI.ConsoleApp.pdb
+C:\Users\Madhusudan Sharma\source\repos\Jan2020\ConsoleApp3\Antra.Training.UI.ConsoleApp\obj\Debug\Antra.Training.UI.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Madhusudan Sharma\source\repos\Jan2020\ConsoleApp3\Antra.Training.UI.ConsoleApp\obj\Debug\Antra.Training.UI.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Madhusudan Sharma\source\repos\Jan2020\ConsoleApp3\Antra.Training.UI.ConsoleApp\obj\Debug\Antra.Training.UI.ConsoleApp.exe
+C:\Users\Madhusudan Sharma\source\repos\Jan2020\ConsoleApp3\Antra.Training.UI.ConsoleApp\obj\Debug\Antra.Training.UI.ConsoleApp.pdb
+C:\Users\Simon\Downloads\ConsoleApp3\Antra.Training.UI.ConsoleApp\obj\Debug\Antra.Training.UI.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Simon\Downloads\ConsoleApp3\Antra.Training.UI.ConsoleApp\obj\Debug\Antra.Training.UI.ConsoleApp.exe
+C:\Users\Simon\Downloads\ConsoleApp3\Antra.Training.UI.ConsoleApp\obj\Debug\Antra.Training.UI.ConsoleApp.pdb
+C:\Users\Simon\Downloads\ConsoleApp3\Antra.Training.UI.ConsoleApp\bin\Debug\Antra.Training.UI.ConsoleApp.exe.config
+C:\Users\Simon\Downloads\ConsoleApp3\Antra.Training.UI.ConsoleApp\bin\Debug\Antra.Training.UI.ConsoleApp.exe
+C:\Users\Simon\Downloads\ConsoleApp3\Antra.Training.UI.ConsoleApp\bin\Debug\Antra.Training.UI.ConsoleApp.pdb
